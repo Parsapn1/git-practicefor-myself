@@ -5,4 +5,4 @@ using spacename std;
 int main() {
     cout << "C++ is fun!";
     return 0;
-}3
+}
